@@ -3,12 +3,12 @@
     {
       "name": "OLX - Rimowa",
       "platform": "olx",
-      "url": "https://m.olx.pl/oferty/q-Rimowa/?min_id=1078455891&reason=observed_search&search%5Border%5D=created_at%3Adesc"
+      "url": "https://m.olx.pl/oferty/q-Rimowa/"
     },
     {
       "name": "Vinted - Rimowa",
       "platform": "vinted",
-      "url": "https://www.vinted.pl/catalog?search_text=Rimowa&search_id=16850309184&currency=PLN&order=newest_first&page=1&time=1777362706"
+      "url": "https://www.vinted.pl/catalog?search_text=Rimowa&search_id=16850309184"
     }
   ]
 }
